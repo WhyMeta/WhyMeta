@@ -33,16 +33,14 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Trae-informational?style=flat&logo=devbox&logoColor=white&color=280459)
 
 ### 🌟 精选项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WhyMeta&repo=swift-chat&theme=dracula)](https://github.com/whymeta/swift-chat)
+[![swift-chat](https://github-readme-stats.vercel.app/api/pin/?username=WhyMeta&repo=swift-chat&theme=dracula&show_owner=true)](https://github.com/whymeta/swift-chat)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WhyMeta&repo=bob-plugin-siliconflow-tts&theme=dracula)](https://github.com/whymeta/bob-plugin-siliconflow-tts)
+[![bob-plugin-siliconflow-tts](https://github-readme-stats.vercel.app/api/pin/?username=WhyMeta&repo=bob-plugin-siliconflow-tts&theme=dracula&show_owner=true)](https://github.com/whymeta/bob-plugin-siliconflow-tts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WhyMeta&repo=pot-app-tts-plugin-siliconflow&theme=dracula)](https://github.com/WhyMeta/pot-app-tts-plugin-siliconflow)
+[![pot-app-tts-plugin-siliconflow](https://github-readme-stats.vercel.app/api/pin/?username=WhyMeta&repo=pot-app-tts-plugin-siliconflow&theme=dracula&show_owner=true)](https://github.com/WhyMeta/pot-app-tts-plugin-siliconflow)
 
 
 ### 📈 动态数据
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyMeta&layout=compact&theme=dracula&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyMeta&layout=compact&theme=dracula&card_width=466)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=WhyMeta&theme=dracula)
-
-
+![WhyMeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhyMeta&show_icons=true&theme=dracula)
