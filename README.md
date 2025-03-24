@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WhyMeta&repo=bob-plugin-siliconflow-tts&theme=dracula)](https://github.com/whymeta/bob-plugin-siliconflow-tts)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WhyMeta&repo=pot-app-tts-plugin-siliconflow&theme=dracula)](https://github.com/WhyMeta/pot-app-tts-plugin-siliconflow)
+
+
 ### 📈 动态数据
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyMeta&layout=compact&theme=dracula)
 
