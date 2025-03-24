@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 ### 📈 动态数据
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyMeta&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyMeta&layout=compact&theme=dracula&card_width=400)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WhyMeta&theme=dracula)
 
