@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Cursor-informational?style=flat&logo=devbox&logoColor=white&color=280459)
 ![](https://img.shields.io/badge/Tools-Trae-informational?style=flat&logo=devbox&logoColor=white&color=280459)
 
-### 🌟 精选项目
-[![swift-chat](https://github-readme-stats.vercel.app/api/pin/?username=WhyMeta&repo=swift-chat&theme=dracula&show_owner=true)](https://github.com/whymeta/swift-chat)
+  ### 🌟 精选项目
+  [![swift-chat](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WhyMeta&repo=swift-chat&theme=dracula&show_owner=true)](https://github.com/whymeta/swift-chat)
 
-[![bob-plugin-siliconflow-tts](https://github-readme-stats.vercel.app/api/pin/?username=WhyMeta&repo=bob-plugin-siliconflow-tts&theme=dracula&show_owner=true)](https://github.com/whymeta/bob-plugin-siliconflow-tts)
+  [![bob-plugin-siliconflow-tts](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WhyMeta&repo=bob-plugin-siliconflow-tts&theme=dracula&show_owner=true)](https://github.com/whymeta/bob-plugin-siliconflow-tts)
 
-[![pot-app-tts-plugin-siliconflow](https://github-readme-stats.vercel.app/api/pin/?username=WhyMeta&repo=pot-app-tts-plugin-siliconflow&theme=dracula&show_owner=true)](https://github.com/WhyMeta/pot-app-tts-plugin-siliconflow)
+  [![pot-app-tts-plugin-siliconflow](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WhyMeta&repo=pot-app-tts-plugin-siliconflow&theme=dracula&show_owner=true)](https://github.com/WhyMeta/pot-app-tts-plugin-siliconflow)
 
 
-### 📈 动态数据
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyMeta&layout=compact&theme=dracula&card_width=466)
+  ### 📈 动态数据
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WhyMeta&layout=compact&theme=dracula&card_width=466)
 
-![WhyMeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhyMeta&show_icons=true&theme=dracula)
+  ![WhyMeta's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WhyMeta&show_icons=true&theme=dracula)
